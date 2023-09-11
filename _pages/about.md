@@ -17,5 +17,5 @@ Feel free to email me if you would like to work together!
 
 Contact (if you need)
 ======
-email: woruozhao@gmail.com
-tel: (+86) 137-1389-0262
+* email: woruozhao@gmail.com
+* tel: (+86) 137-1389-0262
