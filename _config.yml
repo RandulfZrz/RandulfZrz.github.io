@@ -11,9 +11,9 @@ title                    : "Randulf Zhao / Personal Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://randulfzrz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "randulfzrz/randulfzrz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Randulf Zhao"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior student in CUHK(SZ). Major in Financial Engineering"
+  location         : Shenzhen, China : "https://www.google.com/maps/place/Longgang,+Shenzhen,+Guangdong+Province,+China/@22.6149324,114.1861017,11z/data=!3m1!4b1!4m6!3m5!1s0x34046d8426e2aa75:0xb5890b332394d3f0!8m2!3d22.7199099!4d114.24779!16s%2Fm%2F0403ljd?entry=ttu"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "woruozhao@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  tel              : (+86) 13713890262
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/RandulfZrz"
+  github           : "RandulfZrz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
