@@ -14,7 +14,7 @@ redirect_from:
   - /portfolio/
 --- -->
 
-self-disclosure
+<!-- self-disclosure
 ======
 * I like photography, reading, travelling and making new friends.
 * I like animals, especially hamsters and kitties.
@@ -23,4 +23,4 @@ self-disclosure
 
 My path to be a cross-major applier
 ======
-copy part of ps here
+copy part of ps here -->
