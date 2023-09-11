@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Self-disclosure"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-self-disclosure
-====
+<!-- self-disclosure
+==== -->
 * I like photography, reading, travelling and making new friends.
 * I like animals, especially hamsters and kitties.
 * MBTI: mid-part of E and I, ESTJ :)

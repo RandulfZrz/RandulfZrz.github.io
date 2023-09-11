@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Randulf Zhao"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm senior student from CUHK(SZ), majoring Financial Engineering"
+  location         : "https://www.google.com/maps/place/Longgang,+Shenzhen,+Guangdong+Province,+China/@22.6149324,114.1861017,11z/data=!3m1!4b1!4m6!3m5!1s0x34046d8426e2aa75:0xb5890b332394d3f0!8m2!3d22.7199099!4d114.24779!16s%2Fm%2F0403ljd?entry=ttu"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
