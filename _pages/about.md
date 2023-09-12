@@ -17,6 +17,6 @@ Feel free to email me if you would like to work together!
 
 Contact (if you need)
 ======
-* email: [woruozhao@gmail.com](mailto:woruozhao@gmail.com)
+* email: [woruozhao@gmail.com](mailto:woruozhao@gmail.com) or [runzezhao@link.cuhk.edu.cn](mailto:runzezhao@link.cuhk.edu.cn)
 * tel: [(+86) 137-1389-0262](tel:8613713890262)
 * location [Shenzhen, China](https://www.google.com/maps/place/Longgang,+Shenzhen,+Guangdong+Province,+China/@22.6149324,114.1861017,11z/data=!3m1!4b1!4m6!3m5!1s0x34046d8426e2aa75:0xb5890b332394d3f0!8m2!3d22.7199099!4d114.24779!16s%2Fm%2F0403ljd?entry=ttu)
